@@ -1,0 +1,13 @@
+SmartHome
+│
+├── WelcomeScreen
+│
+├── SmartDevice
+│     ├── Living Room Light
+│     ├── Smart Fan
+│     └── Front Door Lock
+│
+└── Actions
+      ├── TURN ON
+      ├── TURN OFF
+      └── CHECK STATUS
